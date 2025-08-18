@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>System & Network Security</b>
-  - System Security Lab: Active Directory in VirtualBox with Automated User Provisioning (PowerShell)
-  - Read it: (Link)
+  - System Security Lab: Active Directory in VirtualBox with Automated User Provisioning (PowerShell) 
+  - Read it: [Project 1](https://github.com/AshleySecured/Project1)
 - <b>Security Monitoring & Analysis</b>
   - TBD
 - <b>Vulnerability & Risk Management</b>
