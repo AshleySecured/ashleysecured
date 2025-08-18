@@ -5,7 +5,6 @@
 - <b>System & Network Security</b>
   - System Security Lab: Active Directory in VirtualBox with Automated User Provisioning (PowerShell)
   - Read it: (Link)
-  - Watch Me Do It IRT: (Link)
 - <b>Security Monitoring & Analysis</b>
   - TBD
 - <b>Vulnerability & Risk Management</b>
@@ -15,7 +14,7 @@
 - <b>Data & Analytics in Security</b>
   - TBD
 
-<h2>📺 Project Explaination YouTube Videos</h2>
+<h2>📺 From Setup to Secure</h2>
 
 - TBD
 <h2> 🤳 Connect with me:</h2>
