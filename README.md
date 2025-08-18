@@ -1,4 +1,4 @@
-<h1>您好, I'm Ashley! <br/><a href="https://github.com/ashleymetadata">Analyst</a>, <a href="https://www.linkedin.com/in/ashleysomereville/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/ashleymetadata">YouTuber</a></h1>
+<h1>您好, I'm Ashley! <br/><a href="https://github.com/ashleymetadata">Analyst</a>, <a href="https://www.linkedin.com/in/ashleysomereville/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
