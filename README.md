@@ -3,7 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>System & Network Security</b>
-  - TBD
+  - Home Lab: Active Directory in Oracle VirtualBox | Automating User Creation with PowerShell
+  - Read it: (Link)
+  - Watch Me Do It IRT: (Link)
 - <b>Security Monitoring & Analysis</b>
   - TBD
 - <b>Vulnerability & Risk Management</b>
