@@ -18,6 +18,11 @@
   - *Data & Analytics in Security*
   - Project: Creating a Threat Intelligence Dashboard in Splunk/Tableau
 
+<h2>Programming Languages</h2>
+  - SQL
+  
+  - Project: https://github.com/AshleySecured/AppleStore_SQL_Project
+  
 <h2>📺 From Setup to Secure</h2>
 
 - TBD
