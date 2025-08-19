@@ -2,17 +2,21 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>System & Network Security</b>
-  - System Security Lab: Active Directory in VirtualBox with Automated User Provisioning (PowerShell) 
-  - Read it: [Project 1](https://github.com/AshleySecured/Project1)
-- <b>Security Monitoring & Analysis</b>
-  - TBD
-- <b>Vulnerability & Risk Management</b>
-  - TBD
-- <b>Incident Response & Forensics</b>
-  - TBD
-- <b>Data & Analytics in Security</b>
-  - TBD
+- <b>Risk Assessment & Business Impact Analysis (BIA)</b>
+  - *Security Monitoring & Analysis*
+  - Project: Building a SIEM Lab to Monitor Logs & Detect Threats
+- <b>Preventive Controls</b>
+  - *System & Network Security*
+  - Project: [Active Directory in VirtualBox with Automated User Provisioning (PowerShell)](https://github.com/AshleySecured/Project1)
+- <b>Disaster Response</b>
+  - *Incident Response & Forensics*
+  - Project: Simulating a Brute Force Attack and Analyzing Event Logs
+- <b>Recovery Strategies</b>
+  - *Vulnerability & Risk Management*
+  - Project: Vulnerability Scanning with OpenVAS (Greenbone) and Risk Prioritization
+- <b>Plan Testing & Exercises</b>
+  - *Data & Analytics in Security*
+  - Project: Creating a Threat Intelligence Dashboard in Splunk/Tableau
 
 <h2>📺 From Setup to Secure</h2>
 
