@@ -4,7 +4,7 @@
 
 - <b>Risk Assessment & Business Impact Analysis (BIA)</b>
   - *Security Monitoring & Analysis*
-  - Project: Building a SIEM Lab to Monitor Logs & Detect Threats
+  - Project: Building a SIEM Lab to Monitor Logs & Detect Threats (Microsoft Sentinal 2025)
 - <b>Preventive Controls</b>
   - *System & Network Security*
   - Project: [Active Directory in VirtualBox with Automated User Provisioning (PowerShell)](https://github.com/AshleySecured/Project1)
